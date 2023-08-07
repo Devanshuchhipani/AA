@@ -1,2 +1,2 @@
 # AA
-Sem 5 Advanced alorithmos  Code
+Sem 5 Advanced Algorithms  Code
