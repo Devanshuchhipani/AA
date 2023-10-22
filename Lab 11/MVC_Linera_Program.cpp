@@ -422,6 +422,3 @@ int main()
     return 0;
 }
 
-
-
-//https://www.cs.ucr.edu/~neal/2006/cs260/piyush.pdf
